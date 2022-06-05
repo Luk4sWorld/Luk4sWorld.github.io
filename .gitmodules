@@ -1,0 +1,3 @@
+[submodule "twitchcollabchat"]
+	path = twitchcollabchat
+	url = https://github.com/Luk4sWorld/twitchcollabchat
