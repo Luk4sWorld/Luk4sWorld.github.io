@@ -1,3 +1,6 @@
 [submodule "twitchcollabchat"]
 	path = twitchcollabchat
 	url = https://github.com/Luk4sWorld/twitchcollabchat
+[submodule "twitch-timer"]
+	path = twitch-timer
+	url = https://github.com/Luk4sWorld/twitch-timer.git
