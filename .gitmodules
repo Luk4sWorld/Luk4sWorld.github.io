@@ -4,3 +4,6 @@
 [submodule "twitch-timer"]
 	path = twitch-timer
 	url = https://github.com/Luk4sWorld/twitch-timer.git
+[submodule "twitchTTS"]
+	path= twitchTTS
+	url = https://github.com/Luk4sWorld/twitchTTS.git
