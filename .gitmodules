@@ -7,3 +7,6 @@
 [submodule "twitchTTS"]
 	path = twitchTTS
 	url = https://github.com/Luk4sWorld/twitchTTS.git
+[submodule "beechat"]
+	path = beechat
+	url = https://github.com/luk4sworld/beechat
