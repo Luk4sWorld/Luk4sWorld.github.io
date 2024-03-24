@@ -10,3 +10,6 @@
 [submodule "beechat"]
 	path = beechat
 	url = https://github.com/luk4sworld/beechat
+[submodule "twitch-counter"]
+	path = twitch-counter
+	url = https://github.com/luk4sworld/twitch-counter
