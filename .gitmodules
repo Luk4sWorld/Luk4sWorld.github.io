@@ -13,3 +13,6 @@
 [submodule "twitch-counter"]
 	path = twitch-counter
 	url = https://github.com/luk4sworld/twitch-counter
+[submodule "twitch-countdown"]
+	path = twitch-countdown
+	url = https://github.com/luk4sworld/twitch-countdown
